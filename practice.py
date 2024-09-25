@@ -13,7 +13,7 @@ x=10
 print(smaller_ele(l,x))
 
 '''
-'write the same using list comprehension'
+'write the same using list comprehension. wrote extra comment. push to the github'
 
 '''
 def smaller_ele(l,k):
